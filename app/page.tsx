@@ -13,7 +13,7 @@ export default function Home() {
         <div className="flex flex-row items-center gap-6 max-w-[420px] mx-auto">
           <Image src="/icon.png" alt="Logo" width={100} height={100} className="w-[100px] h-[100px] mx-auto mt-4" />
           <div className="flex-1">
-            <h1 className="text-4xl my-4">ClaudeCAD</h1>
+            <h1 className="text-4xl my-4">GphCAD</h1>
             <p className="text-base">Making models for 3D printing intuitive.</p>
           </div>
         </div>
